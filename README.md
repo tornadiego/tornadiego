@@ -4,7 +4,7 @@
   <h1 align="center">Prabhat</h1>
 <h3 align="center">An Aspiring Computational Physicist waving at you</h3><br>
 
- 🔭 I’m currently developing Theoretical Models of **Spin Glasses**
+ 🔭 I’m currently learning ML techniques for Astronomical data. 
 
  🌱 I’m a **Masters Student** at Indian Institute of Technology, Bombay.
 
