@@ -2,7 +2,7 @@
 
 <div align="left">
   <h1 align="center">Prabhat</h1>
-<h3 align="center">An Aspiring Computational Physicist waving at you</h3><br>
+<h3 align="center">An Aspiring Analyst waving at you</h3><br>
 
  🔭 I’m currently learning ML techniques for Astronomical data. 
 
