@@ -4,7 +4,7 @@
   <h1 align="center">Prabhat</h1>
 <h3 align="center">An Aspiring Analyst waving at you</h3><br>
 
- 🔭 I’m currently learning ML techniques for Astronomical data. 
+ 🔭 Learnt ML techniques for Astronomical data, Geo-sattelite data, Audio data. 
 
  🌱 I’m a **Masters Student** at Indian Institute of Technology, Bombay.
 
