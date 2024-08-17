@@ -2,9 +2,9 @@
 
 <div align="left">
   <h1 align="center">Prabhat</h1>
-<h3 align="center">A Quantum Scientist waving at you</h3><br>
+<h3 align="center">waving at you</h3><br>
 
- 🔭 Learnt ML techniques for Astronomical data, Geo-sattelite data, Audio data. 
+ 🔭 ML techniques for Astronomical data, Geo-sattelite data, Audio data. 
 
  🌱 I’m a **Masters Student** at Indian Institute of Technology, Bombay.
 
