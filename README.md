@@ -12,8 +12,6 @@
 
  📫 Reach me on **<a href="https://www.linkedin.com/in/prabhat-kumar-985152170/" target="blank"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"></a>**
 
- ⚡ Enriching fellow students through **<a href="https://www.compphy.com">Compphy</a>**
-
 
 <hr>
 <h3>Languages and Tools:</h3>
