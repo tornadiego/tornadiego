@@ -10,7 +10,7 @@
 
  💬 Ask me about **Quantum Algorithms, Data Science, Computational Physics, Quantum Technology and Mathematical Analysis**
 
- 📫 Reach me on **<a href="https://www.linkedin.com/in/prabhat-kumar-985152170/" target="blank"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"></a>**
+ 📫 Reach me on **<a href="https://www.linkedin.com/in/prabhat-kumar-985152170/" target="blank"> <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"></a>** **<a href="https://ieeexplore.ieee.org/author/582990386172656" alt="Publications">**
 
 
 <hr>
