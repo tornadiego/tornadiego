@@ -4,9 +4,9 @@
   <h1 align="center">Prabhat Anand</h1>
 <h3 align="center">waving at you</h3><br>
 
- 🔭 ML techniques for Astronomical data, Geo-sattelite data, Audio data. 
+ 🔭 Physicist turned industry researcher, works in multiple discpline of Quantum_Computing/Quantum_Modelling/Quantum_Sensing/ML/Signal_Processing/Image_Processing/Computational_Imaging/Multi-Sensor_Fusion
 
- 🌱 I’m a **Masters Student** at Indian Institute of Technology, Bombay.
+ 🌱 I did my **Masters in Science** from Indian Institute of Technology, Bombay in 2023.
 
  💬 Ask me about **Quantum Algorithms, Data Science, Computational Physics, Quantum Technology and Mathematical Analysis**
 
